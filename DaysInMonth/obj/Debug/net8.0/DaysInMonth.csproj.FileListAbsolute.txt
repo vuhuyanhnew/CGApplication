@@ -1,0 +1,15 @@
+E:\CodeGym_Unity\Projects\DaysInMonth\bin\Debug\net8.0\DaysInMonth.exe
+E:\CodeGym_Unity\Projects\DaysInMonth\bin\Debug\net8.0\DaysInMonth.deps.json
+E:\CodeGym_Unity\Projects\DaysInMonth\bin\Debug\net8.0\DaysInMonth.runtimeconfig.json
+E:\CodeGym_Unity\Projects\DaysInMonth\bin\Debug\net8.0\DaysInMonth.dll
+E:\CodeGym_Unity\Projects\DaysInMonth\bin\Debug\net8.0\DaysInMonth.pdb
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\DaysInMonth.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\DaysInMonth.AssemblyInfoInputs.cache
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\DaysInMonth.AssemblyInfo.cs
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\DaysInMonth.csproj.CoreCompileInputs.cache
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\DaysInMonth.sourcelink.json
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\DaysInMonth.dll
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\refint\DaysInMonth.dll
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\DaysInMonth.pdb
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\DaysInMonth.genruntimeconfig.cache
+E:\CodeGym_Unity\Projects\DaysInMonth\obj\Debug\net8.0\ref\DaysInMonth.dll
