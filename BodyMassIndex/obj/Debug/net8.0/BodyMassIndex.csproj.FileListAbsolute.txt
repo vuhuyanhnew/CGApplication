@@ -1,0 +1,14 @@
+E:\CodeGym_Unity\Projects\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.exe
+E:\CodeGym_Unity\Projects\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.deps.json
+E:\CodeGym_Unity\Projects\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.runtimeconfig.json
+E:\CodeGym_Unity\Projects\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.dll
+E:\CodeGym_Unity\Projects\BodyMassIndex\bin\Debug\net8.0\BodyMassIndex.pdb
+E:\CodeGym_Unity\Projects\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeGym_Unity\Projects\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.AssemblyInfoInputs.cache
+E:\CodeGym_Unity\Projects\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.AssemblyInfo.cs
+E:\CodeGym_Unity\Projects\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.csproj.CoreCompileInputs.cache
+E:\CodeGym_Unity\Projects\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.dll
+E:\CodeGym_Unity\Projects\BodyMassIndex\obj\Debug\net8.0\refint\BodyMassIndex.dll
+E:\CodeGym_Unity\Projects\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.pdb
+E:\CodeGym_Unity\Projects\BodyMassIndex\obj\Debug\net8.0\BodyMassIndex.genruntimeconfig.cache
+E:\CodeGym_Unity\Projects\BodyMassIndex\obj\Debug\net8.0\ref\BodyMassIndex.dll
