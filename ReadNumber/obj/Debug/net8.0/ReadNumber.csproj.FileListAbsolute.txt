@@ -1,0 +1,15 @@
+E:\CodeGym_Unity\Projects\ReadNumber\bin\Debug\net8.0\ReadNumber.exe
+E:\CodeGym_Unity\Projects\ReadNumber\bin\Debug\net8.0\ReadNumber.deps.json
+E:\CodeGym_Unity\Projects\ReadNumber\bin\Debug\net8.0\ReadNumber.runtimeconfig.json
+E:\CodeGym_Unity\Projects\ReadNumber\bin\Debug\net8.0\ReadNumber.dll
+E:\CodeGym_Unity\Projects\ReadNumber\bin\Debug\net8.0\ReadNumber.pdb
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\ReadNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\ReadNumber.AssemblyInfoInputs.cache
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\ReadNumber.AssemblyInfo.cs
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\ReadNumber.csproj.CoreCompileInputs.cache
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\ReadNumber.sourcelink.json
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\ReadNumber.dll
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\refint\ReadNumber.dll
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\ReadNumber.pdb
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\ReadNumber.genruntimeconfig.cache
+E:\CodeGym_Unity\Projects\ReadNumber\obj\Debug\net8.0\ref\ReadNumber.dll
