@@ -1,0 +1,15 @@
+E:\CodeGym_Unity\Projects\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.exe
+E:\CodeGym_Unity\Projects\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.deps.json
+E:\CodeGym_Unity\Projects\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.runtimeconfig.json
+E:\CodeGym_Unity\Projects\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.dll
+E:\CodeGym_Unity\Projects\ShapeDrawing\bin\Debug\net8.0\ShapeDrawing.pdb
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.AssemblyInfoInputs.cache
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.AssemblyInfo.cs
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.csproj.CoreCompileInputs.cache
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.sourcelink.json
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.dll
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\refint\ShapeDrawing.dll
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.pdb
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\ShapeDrawing.genruntimeconfig.cache
+E:\CodeGym_Unity\Projects\ShapeDrawing\obj\Debug\net8.0\ref\ShapeDrawing.dll
