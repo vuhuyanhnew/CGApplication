@@ -1,0 +1,15 @@
+E:\CodeGym_Unity\Projects\ArraySumCalculator\bin\Debug\net8.0\ArraySumCalculator.exe
+E:\CodeGym_Unity\Projects\ArraySumCalculator\bin\Debug\net8.0\ArraySumCalculator.deps.json
+E:\CodeGym_Unity\Projects\ArraySumCalculator\bin\Debug\net8.0\ArraySumCalculator.runtimeconfig.json
+E:\CodeGym_Unity\Projects\ArraySumCalculator\bin\Debug\net8.0\ArraySumCalculator.dll
+E:\CodeGym_Unity\Projects\ArraySumCalculator\bin\Debug\net8.0\ArraySumCalculator.pdb
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\ArraySumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\ArraySumCalculator.AssemblyInfoInputs.cache
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\ArraySumCalculator.AssemblyInfo.cs
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\ArraySumCalculator.csproj.CoreCompileInputs.cache
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\ArraySumCalculator.sourcelink.json
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\ArraySumCalculator.dll
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\refint\ArraySumCalculator.dll
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\ArraySumCalculator.pdb
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\ArraySumCalculator.genruntimeconfig.cache
+E:\CodeGym_Unity\Projects\ArraySumCalculator\obj\Debug\net8.0\ref\ArraySumCalculator.dll
