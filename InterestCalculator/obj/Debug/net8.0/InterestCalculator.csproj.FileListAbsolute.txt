@@ -1,0 +1,15 @@
+E:\CodeGym_Unity\Projects\InterestCalculator\bin\Debug\net8.0\InterestCalculator.exe
+E:\CodeGym_Unity\Projects\InterestCalculator\bin\Debug\net8.0\InterestCalculator.deps.json
+E:\CodeGym_Unity\Projects\InterestCalculator\bin\Debug\net8.0\InterestCalculator.runtimeconfig.json
+E:\CodeGym_Unity\Projects\InterestCalculator\bin\Debug\net8.0\InterestCalculator.dll
+E:\CodeGym_Unity\Projects\InterestCalculator\bin\Debug\net8.0\InterestCalculator.pdb
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\InterestCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\InterestCalculator.AssemblyInfoInputs.cache
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\InterestCalculator.AssemblyInfo.cs
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\InterestCalculator.csproj.CoreCompileInputs.cache
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\InterestCalculator.sourcelink.json
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\InterestCalculator.dll
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\refint\InterestCalculator.dll
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\InterestCalculator.pdb
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\InterestCalculator.genruntimeconfig.cache
+E:\CodeGym_Unity\Projects\InterestCalculator\obj\Debug\net8.0\ref\InterestCalculator.dll
