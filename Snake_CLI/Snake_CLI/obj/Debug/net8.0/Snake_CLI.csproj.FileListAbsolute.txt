@@ -1,0 +1,15 @@
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\bin\Debug\net8.0\Snake_CLI.exe
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\bin\Debug\net8.0\Snake_CLI.deps.json
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\bin\Debug\net8.0\Snake_CLI.runtimeconfig.json
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\bin\Debug\net8.0\Snake_CLI.dll
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\bin\Debug\net8.0\Snake_CLI.pdb
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\Snake_CLI.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\Snake_CLI.AssemblyInfoInputs.cache
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\Snake_CLI.AssemblyInfo.cs
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\Snake_CLI.csproj.CoreCompileInputs.cache
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\Snake_CLI.sourcelink.json
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\Snake_CLI.dll
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\refint\Snake_CLI.dll
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\Snake_CLI.pdb
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\Snake_CLI.genruntimeconfig.cache
+E:\CodeGym_Unity\Projects\Snake_CLI\Snake_CLI\obj\Debug\net8.0\ref\Snake_CLI.dll
