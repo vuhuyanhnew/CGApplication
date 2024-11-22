@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Snake_CLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ff51bbb061eea48c0fd4a8f0f4f8ee1d9ca051d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da75ccbc7eaeae8070a0dc17a9a777abac380afd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Snake_CLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Snake_CLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

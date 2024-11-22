@@ -6,16 +6,15 @@ using System.Threading;
 class Program
 {
     static bool gameOver;
-    static int width = 20;
+    static int width = 30;
     static int height = 20;
     static int score;
-
     static List<Position> snake;
     static Position food;
-
     static Direction direction;
-
+    static List<Position> obstacles;
     static readonly Random random = new Random();
+    static readonly int numberOfObstacles = 5;
 
     static void Main()
     {
@@ -36,11 +35,14 @@ class Program
             }
 
             DrawGame();
-            Thread.Sleep(100); 
+            Thread.Sleep(100);
         }
 
         Console.Clear();
-        Console.WriteLine($"Game Over! Điểm của bạn: {score}");
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine("Game Over!");
+        Console.WriteLine($"Score: {score}");
+        Console.ResetColor();
     }
 
     static void InitGame()
@@ -54,46 +56,84 @@ class Program
             new Position(width/2, height/2)
         };
 
+        obstacles = new List<Position>();
+        GenerateObstacles();
         GenerateFood();
 
         Console.CursorVisible = false;
         Console.Clear();
     }
 
+    static void GenerateObstacles()
+    {
+        for (int i = 0; i < numberOfObstacles; i++)
+        {
+            Position obstacle;
+            do
+            {
+                obstacle = new Position(random.Next(width), random.Next(height));
+            } while (snake.Any(s => s.Equals(obstacle)) || obstacles.Any(o => o.Equals(obstacle)));
+
+            obstacles.Add(obstacle);
+        }
+    }
+
     static void DrawGame()
     {
-        Console.SetCursorPosition(0, 0);
+        var sb = new System.Text.StringBuilder();
 
-        Console.WriteLine("+" + new string('-', width) + "+");
+        Console.SetCursorPosition(0, 0);
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.Write("+");
+        Console.Write(new string('-', width));
+        Console.WriteLine("+");
 
         for (int y = 0; y < height; y++)
         {
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.Write("|");
+
             for (int x = 0; x < width; x++)
             {
                 var pos = new Position(x, y);
                 if (snake[0].Equals(pos))
                 {
-                    Console.Write("@"); 
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.Write("O");
                 }
                 else if (snake.Skip(1).Any(p => p.Equals(pos)))
                 {
-                    Console.Write("O"); 
+                    Console.ForegroundColor = ConsoleColor.DarkGreen;
+                    Console.Write("o");
                 }
                 else if (pos.Equals(food))
                 {
-                    Console.Write("*"); 
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.Write("*");
+                }
+                else if (obstacles.Any(o => o.Equals(pos)))
+                {
+                    Console.ForegroundColor = ConsoleColor.DarkYellow;
+                    Console.Write("#");
                 }
                 else
                 {
                     Console.Write(" ");
                 }
             }
+
+            Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("|");
         }
 
-        Console.WriteLine("+" + new string('-', width) + "+");
+        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.Write("+");
+        Console.Write(new string('-', width));
+        Console.WriteLine("+");
+
+        Console.ForegroundColor = ConsoleColor.Yellow;
         Console.WriteLine($"Score: {score}");
+        Console.ResetColor();
     }
 
     static void MoveSnake()
@@ -126,13 +166,15 @@ class Program
         do
         {
             food = new Position(random.Next(width), random.Next(height));
-        } while (snake.Any(segment => segment.Equals(food)));
+        } while (snake.Any(segment => segment.Equals(food)) ||
+                obstacles.Any(o => o.Equals(food)));
     }
 
     static void CheckCollision()
     {
         var head = snake[0];
-        if (snake.Skip(1).Any(segment => segment.Equals(head)))
+        if (snake.Skip(1).Any(segment => segment.Equals(head)) ||
+            obstacles.Any(o => o.Equals(head)))
         {
             gameOver = true;
         }
@@ -183,4 +225,4 @@ struct Position
     {
         return HashCode.Combine(X, Y);
     }
-}
+}   
